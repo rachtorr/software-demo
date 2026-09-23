@@ -13,3 +13,6 @@ Analysis tools for biodiversity research data.
 ## BSD 3-Clause License
 
 This repository is licensed under the BSD 3-clause license. Read more under the license tab. 
+
+## Citation
+ Torres, R. Biodiversity Toolkit [Computer software]. https://doi.org/10.5072/zenodo.608097
