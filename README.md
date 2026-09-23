@@ -1,5 +1,7 @@
 # Biodiversity Analysis Toolkit
 
+[![DOI](https://sandbox.zenodo.org/badge/1383804060.svg)](https://handle.test.datacite.org/10.5072/zenodo.608097)
+
 Analysis tools for biodiversity research data.
 
 > **Note for learners:** this is the *starting state* for the
