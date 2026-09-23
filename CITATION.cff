@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Biodiversity Toolkit
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Rachel
+    family-names: Torres
+    email: r_torres@berkeley.edu
+    affiliation: UC Berkeley
+repository-code: 'https://github.com/rachtorr/software-demo'
+abstract: Analysis tools for biodiversity research
+license: BSD-3-Clause
